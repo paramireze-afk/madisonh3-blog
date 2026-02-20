@@ -7,7 +7,7 @@ if (!preg_match('/^[a-z0-9-]+$/', $slug)) {
   exit;
 }
 
-$postFile = __DIR__ . '/../posts/' . $slug . '.php';
+$postFile = __DIR__ . '/posts/' . $slug . '.php';
 
 if (!file_exists($postFile)) {
   http_response_code(404);
