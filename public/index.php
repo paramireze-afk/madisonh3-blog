@@ -14,7 +14,7 @@ ob_start();
   <h1>madisonh3</h1>
   <p class="subhead">
     Monthly posts from a person who can’t leave mysteries alone.
-    Yes, I’m a weirdo. No, I’m not stopping.
+    Yes, I’m a weirdo. No, I’m not stopping :-)
   </p>
 </section>
 
