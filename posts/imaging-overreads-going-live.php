@@ -9,7 +9,7 @@ $post = [
 
     <figure style="margin: 24px 0;">
       <img
-        src="/images/website_hospital.png"
+        src="/public/images/website_hospital.png"
         alt="UW Hospital (context image)"
         style="width:100%; max-width:900px; border-radius:12px; display:block;"
       >
@@ -28,7 +28,7 @@ $post = [
 
     <figure style="margin: 24px 0;">
       <img
-        src="/images/website_homepage.png"
+        src="/public/images/website_homepage.png"
         alt="Imaging Overreads landing page"
         style="width:100%; max-width:900px; border-radius:12px; display:block;"
       >
@@ -43,7 +43,7 @@ $post = [
 
     <figure style="margin: 24px 0;">
       <img
-        src="/images/website_msk_page.png"
+        src="/public/images/website_msk_page.png"
         alt="MSK Control Center dashboard"
         style="width:100%; max-width:900px; border-radius:12px; display:block;"
       >
